@@ -1,0 +1,13 @@
+/crud_php_aratech
+	/controller
+		- UsuariosController.php
+		- VehiculosController.php
+	/model
+		- Conexion.php
+		- Usuario.php	
+		- Vehiculo.php
+	/view
+		- listar.php
+		- crear.php
+		- actualizar.php
+	/index.php
